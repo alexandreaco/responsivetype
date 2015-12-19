@@ -1,0 +1,235 @@
+/* line 6, ../sass/base/_typography.scss */
+body {
+  font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
+}
+
+@media screen and (min-width: 0px) {
+  /* line 10, ../sass/base/_typography.scss */
+  h1 {
+    font-size: 36px;
+    line-height: 39px;
+    letter-spacing: 0.5px;
+  }
+}
+@media screen and (min-width: 400px) {
+  /* line 10, ../sass/base/_typography.scss */
+  h1 {
+    font-size: 43.2px;
+    line-height: 46.8px;
+    letter-spacing: 0.6px;
+  }
+}
+@media screen and (min-width: 750px) {
+  /* line 10, ../sass/base/_typography.scss */
+  h1 {
+    font-size: 55.44px;
+    line-height: 60.06px;
+    letter-spacing: 0.77px;
+  }
+}
+@media screen and (min-width: 1120px) {
+  /* line 10, ../sass/base/_typography.scss */
+  h1 {
+    font-size: 72px;
+    line-height: 78px;
+    letter-spacing: 1px;
+  }
+}
+
+@media screen and (min-width: 0px) {
+  /* line 14, ../sass/base/_typography.scss */
+  h2 {
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 400px) {
+  /* line 14, ../sass/base/_typography.scss */
+  h2 {
+    font-size: 36px;
+    line-height: 43.2px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 750px) {
+  /* line 14, ../sass/base/_typography.scss */
+  h2 {
+    font-size: 46.2px;
+    line-height: 55.44px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 1120px) {
+  /* line 14, ../sass/base/_typography.scss */
+  h2 {
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: 0;
+  }
+}
+
+@media screen and (min-width: 0px) {
+  /* line 18, ../sass/base/_typography.scss */
+  h3 {
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 400px) {
+  /* line 18, ../sass/base/_typography.scss */
+  h3 {
+    font-size: 28.8px;
+    line-height: 36px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 750px) {
+  /* line 18, ../sass/base/_typography.scss */
+  h3 {
+    font-size: 36.96px;
+    line-height: 46.2px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 1120px) {
+  /* line 18, ../sass/base/_typography.scss */
+  h3 {
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: 0;
+  }
+}
+
+@media screen and (min-width: 0px) {
+  /* line 22, ../sass/base/_typography.scss */
+  h4 {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1.5px;
+  }
+}
+@media screen and (min-width: 400px) {
+  /* line 22, ../sass/base/_typography.scss */
+  h4 {
+    font-size: 19.2px;
+    line-height: 28.8px;
+    letter-spacing: 1.8px;
+  }
+}
+@media screen and (min-width: 750px) {
+  /* line 22, ../sass/base/_typography.scss */
+  h4 {
+    font-size: 24.64px;
+    line-height: 36.96px;
+    letter-spacing: 2.31px;
+  }
+}
+@media screen and (min-width: 1120px) {
+  /* line 22, ../sass/base/_typography.scss */
+  h4 {
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: 3px;
+  }
+}
+
+@media screen and (min-width: 0px) {
+  /* line 26, ../sass/base/_typography.scss */
+  h5 {
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 400px) {
+  /* line 26, ../sass/base/_typography.scss */
+  h5 {
+    font-size: 16.8px;
+    line-height: 21px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 750px) {
+  /* line 26, ../sass/base/_typography.scss */
+  h5 {
+    font-size: 21.56px;
+    line-height: 24.64px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 1120px) {
+  /* line 26, ../sass/base/_typography.scss */
+  h5 {
+    font-size: 28px;
+    line-height: 32px;
+    letter-spacing: 0;
+  }
+}
+
+@media screen and (min-width: 0px) {
+  /* line 30, ../sass/base/_typography.scss */
+  h6 {
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 400px) {
+  /* line 30, ../sass/base/_typography.scss */
+  h6 {
+    font-size: 14.4px;
+    line-height: 21px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 750px) {
+  /* line 30, ../sass/base/_typography.scss */
+  h6 {
+    font-size: 18.48px;
+    line-height: 21.56px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 1120px) {
+  /* line 30, ../sass/base/_typography.scss */
+  h6 {
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0;
+  }
+}
+
+@media screen and (min-width: 0px) {
+  /* line 34, ../sass/base/_typography.scss */
+  p {
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 400px) {
+  /* line 34, ../sass/base/_typography.scss */
+  p {
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 750px) {
+  /* line 34, ../sass/base/_typography.scss */
+  p {
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0;
+  }
+}
+@media screen and (min-width: 1120px) {
+  /* line 34, ../sass/base/_typography.scss */
+  p {
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0;
+  }
+}

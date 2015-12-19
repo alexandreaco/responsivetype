@@ -1,0 +1,36 @@
+
+//      Typography Declarations
+
+
+
+body {
+  font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
+}
+
+h1 {
+  @include responsive-type(72px, 78px, 1px);
+}
+
+h2 {
+  @include responsive-type(60px, 72px);
+}
+
+h3 {
+  @include responsive-type(48px, 60px);
+}
+
+h4 {
+  @include responsive-type(32px, 48px, 3px);
+}
+
+h5 {
+  @include responsive-type(28px, 32px);
+}
+
+h6 {
+  @include responsive-type(24px, 28px);
+}
+
+p {
+  @include responsive-type(16px, 20px);
+}
